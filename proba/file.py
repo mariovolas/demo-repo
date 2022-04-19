@@ -2,6 +2,7 @@
 # 3, propitati
 # asdasd
 # dodaj jos
+# dodat iz vscode
 import random
 
 
