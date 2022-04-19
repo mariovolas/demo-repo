@@ -12,7 +12,7 @@ def igramo_kpm():
         if igrač == računar:
             return "rezultat je neriješen"
 
-        if igrač_je_pobjedio(igrač,računar):
+        if igrac_je_pobjedio(igrač,računar):
             return "ti si pobjednik!"
 
         return "ja sam pobijedio"
