@@ -1,5 +1,6 @@
 #%%
 #3, propitati
+#asdasd
 import random
 
 def igramo_kpm():
